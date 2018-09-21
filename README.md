@@ -9,6 +9,8 @@
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
+This fork was modified to use bootstrap4 following instructions at https://medium.com/@jsnook_58598/how-to-use-a-bootstrap-4-theme-with-yii2-974a6dcca986
+
 The template contains the basic features including user login/logout and a contact page.
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
